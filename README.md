@@ -1,6 +1,8 @@
 ## Hi there 👋
+Hi, I'm looking for AI/Product roles. 
 
---------
+LinkedIn: in/
+
 
 IDE: Codex, VS Code
 
@@ -10,11 +12,6 @@ Data Viz: PowerBI, Tableau
 
 Hobbies: Golf, Skii, Thrift
 
-Contact --------
-
-LinkedIn: in/
-
 <!--
-**jjoannel/jjoannel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**jjoannel/jjoannel**  ✨ _special_ ✨ repository
 -->
